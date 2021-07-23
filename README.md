@@ -1,7 +1,7 @@
-<img align="left" width="400px" src="./developer.gif" />
+<img align="left" width="45%" height="300px" src="./developer.gif" />
 
 
-<img align="right" width="400px" height="250px" src="https://github-readme-stats.vercel.app/api?username=vvvsir&show_icons=true&theme=radical" />
+<img align="right" width="45%" height="300px" src="https://github-readme-stats.vercel.app/api?username=vvvsir&show_icons=true&theme=radical" />
 
 <!--
 **vvvsir/vvvsir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
